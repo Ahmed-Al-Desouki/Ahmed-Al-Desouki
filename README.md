@@ -124,14 +124,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Des
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Al-Desouki&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 💡 Favorite Quote
 
 > Programs must be written for people to read, and only incidentally for machines to execute.
