@@ -86,22 +86,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Des
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-Al-Desouki&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Al-Desouki&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 💡 Favorite Quote
 
 > First, solve the problem. Then, write the code.
