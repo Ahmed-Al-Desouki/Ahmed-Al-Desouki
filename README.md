@@ -12,9 +12,9 @@ Building scalable backend systems with Java & Spring Boot
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student at Ain Shams University (Graduation 2026)
+- 🎓 Graduated with a degree in Computer Science from Ain Shams University (Graduation 2026)
 - 💻 Passionate Backend Developer
-- 🔭 Currently working on a Healthcare Graduation Project
+- 🔭 Currently working on a Healthcare Management Project
 - 🌱 Learning Advanced Backend Architecture & System Design
 - ⚡ Interested in APIs, Databases, Distributed Systems, and Software Engineering
 
