@@ -1,21 +1,115 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al-Desouki</h1>
-<h3 align="center">A passionate backend developer from EGYPT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-al-desouki&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-al-desouki" /> </p>
+<h3 align="center">
+Backend Developer | Computer Science Student at Ain Shams University
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-al-desouki" alt="ahmed-al-desouki" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://ahmed-al-desouki-portfolio.runasp.net/](https://ahmed-al-desouki-portfolio.runasp.net/)
-
-- 📫 How to reach me **ahmedaldesouki2@gmail.com**
-
-- ⚡ Fun fact **did egg come first or chicken**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ahmed-al-desouki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ahmed-al-desouki" height="30" width="40" /></a>
-<a href="https://discord.gg/ahmed.aldesouki." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ahmed.aldesouki." height="30" width="40" /></a>
+<p align="center">
+Building scalable backend systems with Java & Spring Boot
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Student at Ain Shams University (Graduation 2026)
+- 💻 Passionate Backend Developer
+- 🔭 Currently working on a Healthcare Graduation Project
+- 🌱 Learning Advanced Backend Architecture & System Design
+- ⚡ Interested in APIs, Databases, Distributed Systems, and Software Engineering
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://ahmed-al-desouki-portfolio.runasp.net/
+
+---
+
+## 📫 Contact Me
+
+- Email: **ahmedaldesouki2@gmail.com**
+- LinkedIn: **https://linkedin.com/in/ahmed-al-desouki**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</p>
+
+### Other
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Ahmed-Al-Desouki&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Desouki&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Al-Desouki&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Al-Desouki&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Al-Desouki&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 💡 Favorite Quote
+
+> First, solve the problem. Then, write the code.
+> — John Johnson
+
+---
+
+<p align="center">
+Thanks for visiting my profile ❤️
+</p>
