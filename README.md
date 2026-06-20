@@ -1,21 +1,27 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al-Desouki</h1>
 
 <h3 align="center">
-Backend Developer | Graduated with a degree in Computer Science from Ain Shams University.
+Backend Developer | Computer Science Graduate from Ain Shams University
 </h3>
 
 <p align="center">
-Building scalable backend systems with Java & Spring Boot
+Building scalable backend systems with Java, Spring Boot, and SQL Server
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Al-Desouki&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Passionate Backend Developer
-- 🔭 Currently working on a Healthcare Management Project
-- 🌱 Learning Advanced Backend Architecture & System Design
+
+- 💻 Backend Developer passionate about building scalable and maintainable applications
+- 🏥 Currently working on Healthcare Management Systems
+- 🌱 Continuously improving my skills in Backend Architecture & System Design
 - ⚡ Interested in APIs, Databases, Distributed Systems, and Software Engineering
-- 🎓 Graduated with a degree in Computer Science from Ain Shams University (Graduation 2026)
+- 🎓 B.Sc. in Computer Science, Ain Shams University (2026)
+- 💼 Open to Backend Developer Opportunities
 
 ---
 
@@ -27,8 +33,8 @@ Building scalable backend systems with Java & Spring Boot
 
 ## 📫 Contact Me
 
-- Email: **ahmedaldesouki2@gmail.com**
-- LinkedIn: **https://linkedin.com/in/ahmed-al-desouki**
+- 📧 Email: **ahmedaldesouki2@gmail.com**
+- 💼 LinkedIn: **https://linkedin.com/in/ahmed-al-desouki**
 
 ---
 
@@ -36,31 +42,57 @@ Building scalable backend systems with Java & Spring Boot
 
 ### Backend
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,spring,dotnet" />
 </p>
 
-### Database
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+SQL Server • MySQL • MongoDB
 </p>
 
 ### Tools & DevOps
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
-### Other
+### Additional Technologies
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=flutter,firebase" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ⭐ Featured Projects
+
+### 🏥 Healthcare Management System
+
+A healthcare platform that enables patients and doctors to manage:
+
+- Appointments & Scheduling
+- Medical History
+- Reminders & Notifications
+- Authentication & Authorization
+- Doctor-Patient Communication
+
+**Tech Stack:** Java, Spring Boot, SQL Server
+
+### 🌐 Personal Portfolio
+
+My personal portfolio website showcasing projects, skills, and experience.
+
+🔗 https://ahmed-al-desouki-portfolio.runasp.net/
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -75,27 +107,37 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Des
 />
 
 </p>
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Ahmed-Al-Desouki/Ahmed-Al-Desouki/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Al-Desouki&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Al-Desouki&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Ahmed-Al-Desouki/Ahmed-Al-Desouki/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Al-Desouki&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 💡 Favorite Quote
 
-> First, solve the problem. Then, write the code.
-> — John Johnson
+> Programs must be written for people to read, and only incidentally for machines to execute.
+>
+> — Harold Abelson
 
 ---
 
-<p align="center">
-Thanks for visiting my profile ❤️
-</p>
+<h3 align="center">Thanks for visiting my profile ❤️</h3>
