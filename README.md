@@ -62,6 +62,10 @@ Building scalable backend systems with Java & Spring Boot
 
 ## 📊 GitHub Stats
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Ahmed-Al-Desouki/Ahmed-Al-Desouki/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
 
 <img
