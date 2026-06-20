@@ -62,7 +62,7 @@ SQL Server • MySQL • MongoDB • REST APIs • Entity Framework • Spring B
 
 ### 🔗 Project Links
 
-- 🏥 Graduation Project → https://github.com/Ahmed-Al-Desouki/Graduation-Project
+- 🏥 Graduation Project → [https://github.com/Ahmed-Al-Desouki/Graduation-Project](https://github.com/Ahmed-Al-Desouki/Graduation-Project/tree/onion-architecture)
 - 🛒 E-Commerce API MVC → https://github.com/Ahmed-Al-Desouki/e-commerce-API-MVC-
 - 📚 Scanner and Parser → https://github.com/Ahmed-Al-Desouki/Scanner-and-Parser
 - 🌐 Portfolio → https://github.com/Ahmed-Al-Desouki/Portfolio
