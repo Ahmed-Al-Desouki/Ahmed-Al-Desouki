@@ -12,83 +12,60 @@ Building scalable backend systems with Java, Spring Boot, and SQL Server
   <img src="https://komarev.com/ghpvc/?username=Ahmed-Al-Desouki&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <a href="mailto:ahmedaldesouki2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/ahmed-al-desouki">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://ahmed-al-desouki-portfolio.runasp.net/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-- 💻 Backend Developer passionate about building scalable and maintainable applications
-- 🏥 Currently working on Healthcare Management Systems
-- 🌱 Continuously improving my skills in Backend Architecture & System Design
-- ⚡ Interested in APIs, Databases, Distributed Systems, and Software Engineering
-- 🎓 B.Sc. in Computer Science, Ain Shams University (2026)
-- 💼 Open to Backend Developer Opportunities
-
----
-
-## 🌐 Portfolio
-
-🔗 https://ahmed-al-desouki-portfolio.runasp.net/
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: **ahmedaldesouki2@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/ahmed-al-desouki**
+- 💻 Backend Developer passionate about building scalable and maintainable applications.
+- 🏥 Developing healthcare and enterprise-grade backend systems.
+- 🌱 Continuously learning Backend Architecture, System Design, and Cloud Technologies.
+- ⚡ Interested in APIs, Databases, Distributed Systems, and Software Engineering.
+- 🎓 B.Sc. in Computer Science, Ain Shams University.
+- 💼 Open to Backend Developer Opportunities.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+<p align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,dotnet" />
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet,mysql,mongodb,docker,git,github,linux,flutter,firebase" />
+
 </p>
 
-### Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-<p>
-SQL Server • MySQL • MongoDB
-</p>
-
-### Tools & DevOps
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
-</p>
-
-### Additional Technologies
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,firebase" />
+<p align="center">
+SQL Server • MySQL • MongoDB • REST APIs • Entity Framework • Spring Boot
 </p>
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🏥 Healthcare Management System
+| Project | Description |
+|----------|------------|
+| 🏥 **Graduation Project** | Healthcare Management Platform with appointments, reminders, medical history, and secure authentication. |
+| 🛒 **E-Commerce API MVC** | Backend e-commerce system implementing authentication, authorization, product management, and business logic. |
+| 📚 **Scanner and Parser** | Compiler project implementing lexical analysis and parsing techniques using ANTLR and C++. |
+| 🌐 **Portfolio Website** | Personal portfolio showcasing projects, skills, and experience. |
 
-A healthcare platform that enables patients and doctors to manage:
+### 🔗 Project Links
 
-- Appointments & Scheduling
-- Medical History
-- Reminders & Notifications
-- Authentication & Authorization
-- Doctor-Patient Communication
-
-**Tech Stack:** Java, Spring Boot, SQL Server
-
-### 🌐 Personal Portfolio
-
-My personal portfolio website showcasing projects, skills, and experience.
-
-🔗 https://ahmed-al-desouki-portfolio.runasp.net/
+- 🏥 Graduation Project → https://github.com/Ahmed-Al-Desouki/Graduation-Project
+- 🛒 E-Commerce API MVC → https://github.com/Ahmed-Al-Desouki/e-commerce-API-MVC-
+- 📚 Scanner and Parser → https://github.com/Ahmed-Al-Desouki/Scanner-and-Parser
+- 🌐 Portfolio → https://github.com/Ahmed-Al-Desouki/Portfolio
 
 ---
 
@@ -96,15 +73,9 @@ My personal portfolio website showcasing projects, skills, and experience.
 
 <p align="center">
 
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Ahmed-Al-Desouki&show_icons=true&theme=tokyonight&hide_border=true"
-/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Al-Desouki&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Desouki&layout=compact&theme=tokyonight&hide_border=true"
-/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Desouki&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -120,16 +91,24 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Des
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Ahmed-Al-Desouki/Ahmed-Al-Desouki/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ahmed-Al-Desouki/Ahmed-Al-Desouki/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 💡 Favorite Quote
 
+<p align="center">
+
 > Programs must be written for people to read, and only incidentally for machines to execute.
->
-> — Harold Abelson
+
+**— Harold Abelson**
+
+</p>
 
 ---
 
-<h3 align="center">Thanks for visiting my profile ❤️</h3>
+<h3 align="center">
+Thanks for visiting my profile ❤️
+</h3>
