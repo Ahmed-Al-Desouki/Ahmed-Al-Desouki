@@ -62,9 +62,13 @@ SQL Server • MySQL • MongoDB • REST APIs • Entity Framework • Spring B
 
 ### 🔗 Project Links
 
-- 🏥 Graduation Project → [https://github.com/Ahmed-Al-Desouki/Graduation-Project](https://github.com/Ahmed-Al-Desouki/Graduation-Project/tree/onion-architecture)
+- 🏥 Graduation Project Repository → https://github.com/Ahmed-Al-Desouki/Graduation-Project
+- 🚀 Live Swagger API → https://wellora-healthcaremanagment.runasp.net/swagger/index.html
+
 - 🛒 E-Commerce API MVC → https://github.com/Ahmed-Al-Desouki/e-commerce-API-MVC-
+
 - 📚 Scanner and Parser → https://github.com/Ahmed-Al-Desouki/Scanner-and-Parser
+
 - 🌐 Portfolio → https://github.com/Ahmed-Al-Desouki/Portfolio
 
 ---
