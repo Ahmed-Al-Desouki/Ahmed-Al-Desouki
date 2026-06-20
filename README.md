@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al-Desouki</h1>
 <h3 align="center">A passionate backend developer from EGYPT</h3>
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=ahmed-al-desouki&label=Profile%20views&color=0e75b6&style=flat](https://res-console.cloudinary.com/dxrhdztmz/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/V2hhdHNBcHBfSW1hZ2VfMjAyNS0wOS0yMV9hdF8xNy4xOC40Nl81MTFjOGRlNl94NWljeWE=/template_primary)" alt="ahmed-al-desouki" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-al-desouki&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-al-desouki" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-al-desouki" alt="ahmed-al-desouki" /></a> </p>
 
