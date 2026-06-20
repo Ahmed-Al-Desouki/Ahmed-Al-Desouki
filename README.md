@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al-Desouki</h1>
 
 <h3 align="center">
-Backend Developer | Computer Science Student at Ain Shams University
+Backend Developer | Graduated with a degree in Computer Science from Ain Shams University.
 </h3>
 
 <p align="center">
