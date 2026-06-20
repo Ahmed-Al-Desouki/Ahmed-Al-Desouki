@@ -11,12 +11,11 @@ Building scalable backend systems with Java & Spring Boot
 ---
 
 ## 🚀 About Me
-
-- 🎓 Graduated with a degree in Computer Science from Ain Shams University (Graduation 2026)
 - 💻 Passionate Backend Developer
 - 🔭 Currently working on a Healthcare Management Project
 - 🌱 Learning Advanced Backend Architecture & System Design
 - ⚡ Interested in APIs, Databases, Distributed Systems, and Software Engineering
+- 🎓 Graduated with a degree in Computer Science from Ain Shams University (Graduation 2026)
 
 ---
 
@@ -90,7 +89,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Des
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Al-Desouki&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-Al-Desouki&theme=tokyonight" />
 </p>
 
 ---
